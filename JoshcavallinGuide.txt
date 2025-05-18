@@ -1,0 +1,5 @@
+How to guide:
+The game will ask you three questions, input the answers to them
+if they are correct you will get a point
+at the end your score will be sent to the answer text file
+enjoy:)
